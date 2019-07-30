@@ -1,4 +1,4 @@
-# python-challenge
+# PythonPractice
 Python
 Practice
 Perfection
